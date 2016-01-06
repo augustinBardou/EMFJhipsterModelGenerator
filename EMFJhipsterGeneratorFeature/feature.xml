@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="JhipsterGenerator"
-      label="JhipsterGenerator"
+      id="EMFJhipsterGeneratorFeature"
+      label="EMFJhipsterGeneratorFeature"
       version="1.0.0.qualifier">
 
    <description url="http://www.example.com/description">
@@ -17,7 +17,7 @@
    </license>
 
    <plugin
-         id="org.eclipse.emf.jhipster.generator.validator"
+         id="EMFJhipsterGeneratorPlugins"
          download-size="0"
          install-size="0"
          version="0.0.0"
